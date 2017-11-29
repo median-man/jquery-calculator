@@ -1,4 +1,4 @@
-#jQuery Calculator
+# jQuery Calculator
 Calculator to evaluate simple expressions.
 
 ## Using the App
